@@ -1,19 +1,22 @@
 # Flight Fare Prediction 
 ## Problem Statement:
-Travelling through flights has become an integral part of today’s lifestyle as more and more people are opting for faster travelling options. The flight ticket prices increase or decrease every now and then depending on various factors like timing of the flights, destination, and duration of flights various occasions such as vacations or festive season. Therefore, having some basic idea of the flight fares before planning the trip will surely help many people save money and time.
+Travelling through flights has become an integral part of today’s lifestyle as more and
+more people are opting for faster travelling options. The flight ticket prices increase or
+decrease every now and then depending on various factors like timing of the flights,
+destination, and duration of flights various occasions such as vacations or festive
+season. Therefore, having some basic idea of the flight fares before planning the trip will
+surely help many people save money and time.
+The main goal is to predict the fares of the flights based on different factors available in
+the provided dataset.
 
-## Approach:
-The main goal is to predict the fares of the flights based on different factors available in the dataset.
 
-1.Data Exploration     : I started exploring dataset using pandas,numpy,matplotlib and seaborn. <br>
-2.Data visualization   : Ploted graphs to get insights about dependend and independed variables. <br>
-3.Feature Engineering  : Removed missing values and created new features as per insights.<br>
-4.Model Selection I    : Tested all base models to check the base accuracy.<br>
-                         Also ploted residual plot to check whether a model is a good fit or not.<br>
-5.Model Selection II   :  Performed Hyperparameter tuning using gridsearchCV and randomizedSearchCV.<br>
-6.Pickle File          :  Selected model as per best accuracy and created pickle file using joblib .<br>
-7.Webpage & deployment :  Created a webform that takes all the necessary inputs from user and shows output.<br>
-                                After that I have deployed project on google cloud as well as on heroku platform.<br>
+## Approach: 
+The classical machine learning tasks like Data Exploration, Data Cleaning,
+Feature Engineering, Model Building and Model Testing. Try out different machine
+learning algorithms that’s best fit for the above case.
+
+## Dataset:
+Dataset Link :- https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
                                
 ## Deployment Links:
 Azure link:
@@ -49,6 +52,5 @@ Azure link:
 5.Run the app.py<br>
   python app.py<br>
 
-## Help Me Improve
-Hello Reader if you find any bug please consider raising issue I will address them asap.
+
 
