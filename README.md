@@ -16,7 +16,7 @@ The main goal is to predict the fares of the flights based on different factors 
                                 After that I have deployed project on google cloud as well as on heroku platform.<br>
                                
 ## Deployment Links:
-Heroku link:
+Azure link:
 ## User Interface:
 ![Capture]()
 
