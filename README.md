@@ -16,9 +16,9 @@ The main goal is to predict the fares of the flights based on different factors 
                                 After that I have deployed project on google cloud as well as on heroku platform.<br>
                                
 ## Deployment Links:
-Heroku link:https://flight-fare-prediction1301.herokuapp.com/
+Heroku link:
 ## User Interface:
-![Capture](https://user-images.githubusercontent.com/63538576/132983915-1bad4b43-9ecc-4315-8ea1-bed335c5b898.JPG)
+![Capture]()
 
 ## Technologies Used:
 1. Python 
