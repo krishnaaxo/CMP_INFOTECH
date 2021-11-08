@@ -39,8 +39,7 @@ Heroku link:https://flight-fare-prediction1301.herokuapp.com/
 6.Deployment: Heroku<br>
 
 ## Run Locally
-1.Clone the project<br>
-  git clone https://github.com/Poojasharma1301/iNeuron_internship<br>
+1.Clone the project<br><br>
 2.Go to the project directory<br>
   cd iNeuron_Internship<br>
 3.Install dependencies<br>
