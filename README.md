@@ -19,7 +19,7 @@ learning algorithms that’s best fit for the above case.
 Dataset Link :- https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
                                
 ## Deployment Links:
-Azure link:
+Azure link: http://flight-fare.azurewebsites.net/
 ## User Interface:
 ![Capture]()
 
